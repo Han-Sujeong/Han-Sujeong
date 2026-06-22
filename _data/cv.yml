@@ -44,7 +44,7 @@ cv:
           - "Thesis:  Development and evaluation of collective efficacy questionnaire for infectious disease"
 
       - institution: College of Nursing, Konkuk University
-        location: Seoul and Chungju, Korea
+        location: Seoul & Chungju, Korea
         url: https://nursing.kku.ac.kr/index.do
         area: Nursing
         studyType: Bachelor of Science in Nursing (BSN)
@@ -54,17 +54,17 @@ cv:
           
     Experience:
       - company: Seoul National University
-        position: Postdoctoral Researcher
+        position: Visiting Professor
         location: Seoul, Korea
-        start_date: 2024.3
+        start_date: 2023.9
         end_date: present
         highlights:
           - "PI: Prof. Sung-il Cho"
           - "Affiliated with Chungbuk National University (Jan–Aug 2025) for administrative purposes"
                 
-      - company: National Cancer Center
-        position: Research Assistant
-        location: Goyang, Korea
+      - company: Eulji University
+        position: Adjunct Lecturer
+        location: Seongnam & Uijungbu, Korea
         start_date: 2018.7
         end_date: 2020.2
         summary: Supported public health research through linkage and management of large-scale national healthcare data.
