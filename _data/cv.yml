@@ -41,14 +41,15 @@ cv:
         end_date: 2016.2
         highlights:
           - "Advisor: Prof. Sung-il Cho"
+          - "Thesis:  Development and evaluation of collective efficacy questionnaire for infectious disease"
 
-      - institution: College of Nursing, Seoul National University
-        location: Seoul, Korea
+      - institution: College of Nursing, Konkuk University
+        location: Seoul and Chungju, Korea
         url: https://nursing.snu.ac.kr/en
         area: Nursing
         studyType: Bachelor of Science in Nursing (BSN)
-        start_date: 2010.3
-        end_date: 2014.2
+        start_date: 2007.3
+        end_date: 2011.2
         highlights:
           
     Experience:
