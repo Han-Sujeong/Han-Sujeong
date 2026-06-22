@@ -1,18 +1,16 @@
 cv:
-  name: Suyoung Jo
-  label: Postdoctoral Fellow
-  email: josuyoung1@gmail.com
+  name: Sujeong Han
+  label: Visiting Professor
+  email: drsjhan@snu.ac.kr
   location: Seoul, Republic of Korea
   image: ""
-  summary: An infectious disease epidemiologist specializing in mathematical modeling and population-based data analysis to inform public health policy
+  summary: Public health researcher, epidemiologist, and educator dedicated to advancing healthy aging through population-based research, longitudinal data analysis, and evidence-informed public health policy
 
   social_networks:
     - network: X
       username: 
     - network: GitHub
-      username: suyoung-jo
-    - network: LinkedIn
-      username: syoungjo
+      username: Han-Sujeong
 
   address:
     street: 1 Gwanak-ro 
