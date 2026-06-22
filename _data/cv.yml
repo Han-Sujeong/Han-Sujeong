@@ -59,22 +59,19 @@ cv:
         start_date: 2023.9
         end_date: present
         highlights:
-          - "PI: Prof. Sung-il Cho"
-          - "Affiliated with Chungbuk National University (Jan–Aug 2025) for administrative purposes"
                 
       - company: Eulji University
         position: Adjunct Lecturer
-        location: Seongnam & Uijungbu, Korea
+        location: Uijeongbu, Korea
         start_date: 2018.7
-        end_date: 2020.2
-        summary: Supported public health research through linkage and management of large-scale national healthcare data.
+        end_date: present
           
       - company: Seoul National University Hospital
         position: Registered Nurse
         location: Seoul, Korea
         start_date: 2014.9
         end_date: 2017.2
-        summary: Provided clinical care for pediatric patients with hematologic and oncologic conditions.
+        summary: Scrub Nurse
 
     Volunteer:
       - company: People's Climate March
