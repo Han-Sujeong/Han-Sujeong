@@ -53,7 +53,7 @@ cv:
         highlights:
           
     Experience:
-      - company: Seoul National University
+      - company: Graduate School of Public Health, Seoul National University
         position: Visiting Professor
         location: Seoul, Korea
         start_date: 2023.9
@@ -63,14 +63,27 @@ cv:
       - company: Eulji University
         position: Adjunct Lecturer
         location: Uijeongbu, Korea
-        start_date: 2018.7
+        start_date: 2023.3
         end_date: present
-          
-      - company: Seoul National University Hospital
-        position: Registered Nurse
+                
+      - company: Korea National Open University
+        position: Adjunct Lecturer
         location: Seoul, Korea
+        start_date: 2023.3
+        end_date: present
+                 
+      - company: Emocog Inc.
+        position: Postdoctoral Researcher
+        location: Seoul, Korea
+        start_date: 2025.10
+        end_date: 2026.3
+        summary: Project Manager for an ARPA-H project
+
+      - company: St. Mary Hospital
+        position: Registered Nurse
+        location: Cheongju, Korea
         start_date: 2014.9
-        end_date: 2017.2
+        end_date: 2011.10
         summary: Scrub Nurse
 
     Volunteer:
