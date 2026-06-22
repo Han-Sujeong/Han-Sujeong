@@ -4,8 +4,7 @@ cv:
   email: drsjhan@snu.ac.kr
   location: Seoul, Republic of Korea
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  summary: Public health researcher, epidemiologist, and educator dedicated to advancing healthy aging through population based research, longitudinal data analysis, and evidence informed public health policy.
   social_networks:
     - network: X
       username: 
@@ -25,36 +24,34 @@ cv:
     Education:
       - institution: Graduate School of Public Health, Seoul National University
         location: Seoul, Korea
-        url: https://en.snu.ac.kr/
+        url: https://health.snu.ac.kr/en/
         area: Epidemiology
         studyType: PhD
-        start_date: 2016
-        end_date: 2023
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2016.3
+        end_date: 2023.2
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Advisor: Prof. Sung-il Cho"
+          - "Thesis: Association Between Obesity Measures and Cognitive Function in Korean Older Adults"
 
       - institution: Graduate School of Public Health, Seoul National University
         location: Seoul, Korea
+        url: https://health.snu.ac.kr/en/
         area: Epidemiology
         studyType: Master of Public Health (MPH)
-        start_date: 2014
-        end_date: 2016
+        start_date: 2014.3
+        end_date: 2016.2
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Advisor: Prof. Sung-il Cho"
+          - "Thesis: Development and evaluation of "collective efficacy" questionnaire for infectious disease"
 
-      - institution: College of Nursing, Seoul National University
-        location: Seoul, Korea
-        area: Epidemiology
-        studyType: Master of Public Health (MPH)
-        start_date: 2014
-        end_date: 2016
+      - institution: College of Nursing, Konkuk University
+        location: Seoul, Chungju, Korea
+        url: https://health.snu.ac.kr/en/
+        area: Nursing
+        studyType: Bachelor of Science in Nursing
+        start_date: 2007.3
+        end_date: 2011.2
         highlights:
-          - Description 1.
-          - Description 2.
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
