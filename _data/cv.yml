@@ -45,7 +45,7 @@ cv:
           - "Thesis: Development and evaluation of "collective efficacy" questionnaire for infectious disease"
 
       - institution: College of Nursing, Konkuk University
-        location: Seoul, Chungju, Korea
+        location: Seoul/Chungju, Korea
         url: https://nursing.kku.ac.kr/index.do
         area: Nursing
         studyType: Bachelor of Science in Nursing
@@ -54,6 +54,27 @@ cv:
         highlights:
 
     Experience:
+      - company: Seoul National University
+        position: Visiting Professor
+        location: Seoul, Korea
+        start_date: 2023.9
+        end_date: present
+        highlights:
+
+      - company: Eulji University
+        position: Adjunct Lecturer
+        location: Uijeongbu/Seongnam, Korea
+        start_date: 2023.9
+        end_date: present
+        highlights:
+
+      - company: Korea National Open University 
+        position: Adjunct Lecturer
+        location: Seoul, Korea
+        start_date: 2023.3
+        end_date: present
+        highlights:
+        
       - company: Emocog Inc.
         position: Postdoctoral Researcher
         location: Seoul, Korea
@@ -63,14 +84,12 @@ cv:
         highlights:
           - "PI: Prof. Jun-Young Lee" 
   
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Seoul Metropolitan Government 
+        position: Epidemiological investigation officer:
+        location: Seoul, Korea
+        start_date: 2015.6
+        end_date: 2015.12
         highlights:
-          - Description 1.
-          - Description 2.
 
       - company: Kaiser Wilhelm Institute for Physics
         position: Director
