@@ -2,30 +2,30 @@ cv:
   name: Sujeong Han
   label: Visiting Professor
   email: drsjhan@snu.ac.kr
-  location: 1 Gwanak-ro, Gwanak-gu, Seoul 08826
+  location: Seoul, Republic of Korea
   image: ""
   summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
     - network: X
-      username: Sujeong Han
+      username: 
     - network: GitHub
-      username: example
+      username: Sujeong Han
     - network: LinkedIn
-      username: example
+      username: Sujeong Han
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 1 Gwanak-ro
+    city: Gwanak-gu
+    region: Seoul 
+    postalCode: 08826
+    countryCode: Korea
 
   sections:
     Education:
       - institution: Graduate School of Public Health, Seoul National University
         location: Seoul, Korea
-        url: https://www.uzh.ch/
+        url: https://en.snu.ac.kr/
         area: Epidemiology
         studyType: PhD
         start_date: 2016
@@ -46,7 +46,7 @@ cv:
           - Description 1.
           - Description 2.
 
-      - institution: Graduate School of Public Health, Seoul National University
+      - institution: College of Nursing, Seoul National University
         location: Seoul, Korea
         area: Epidemiology
         studyType: Master of Public Health (MPH)
