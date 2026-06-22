@@ -86,6 +86,10 @@ cv:
         start_date: 2014.9
         end_date: 2011.10
         summary: Scrub Nurse
+ 
+ Publications:
+      - summary: "See full publication list on the [Publications](https://Han-Sujeong.github.io/publications/) page."
+        date: ""
 
     Volunteer:
       - company: People's Climate March
