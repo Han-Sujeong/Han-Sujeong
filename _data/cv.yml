@@ -60,24 +60,25 @@ cv:
         end_date: present
         highlights:
                 
-      - company: Eulji University
-        position: Adjunct Lecturer
-        location: Uijeongbu, Korea
-        start_date: 2023.3
-        end_date: present
-                
-      - company: Korea National Open University
+      - company: Eulji University & Korea National Open University
         position: Adjunct Lecturer
         location: Seoul, Korea
         start_date: 2023.3
         end_date: present
-                 
+                                 
       - company: Emocog Inc.
         position: Postdoctoral Researcher
         location: Seoul, Korea
         start_date: 2025.10
         end_date: 2026.3
         summary: Project Manager for an ARPA-H (Advanced Research Projects Agency for Health) project
+
+      - company: Seoul Metropolitan Government
+        position: Epidemiological Investigation Officer
+        location: Seoul, Korea
+        start_date: 2015.12
+        end_date: 2015.5
+        summary: Epidemiological Investigator, Kangdong Kyung Hee University Hospital
 
       - company: St. Mary Hospital
         position: Registered Nurse
