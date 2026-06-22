@@ -46,7 +46,7 @@ cv:
 
       - institution: College of Nursing, Konkuk University
         location: Seoul, Chungju, Korea
-        url: https://health.snu.ac.kr/en/
+        url: https://nursing.kku.ac.kr/index.do
         area: Nursing
         studyType: Bachelor of Science in Nursing
         start_date: 2007.3
@@ -54,16 +54,14 @@ cv:
         highlights:
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Emocog Inc.
+        position: Postdoctoral Researcher
+        location: Seoul, Korea
+        start_date: 2025.10
+        end_date: 2026.3
         highlights:
-          - Relativity
-          - Description 2.
-
+          - "PI: Prof. Jun-Young Lee" 
+  
       - company: California Institute of Technology
         position: Visiting Professor
         location: Pasadena, California, US
