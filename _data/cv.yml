@@ -1,14 +1,14 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Sujeong Han
+  label: Visiting Professor
+  email: drsjhan@snu.ac.kr
+  location: 1 Gwanak-ro, Gwanak-gu, Seoul 08826
   image: ""
   summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: Sujeong Han
     - network: GitHub
       username: example
     - network: LinkedIn
@@ -23,25 +23,35 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
+      - institution: Graduate School of Public Health, Seoul National University
+        location: Seoul, Korea
         url: https://www.uzh.ch/
-        area: Physics
+        area: Epidemiology
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2016
+        end_date: 2023
         score: ""
         courses: "Theory of Relativity"
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Graduate School of Public Health, Seoul National University
+        location: Seoul, Korea
+        area: Epidemiology
+        studyType: Master of Public Health (MPH)
+        start_date: 2014
+        end_date: 2016
+        highlights:
+          - Description 1.
+          - Description 2.
+
+      - institution: Graduate School of Public Health, Seoul National University
+        location: Seoul, Korea
+        area: Epidemiology
+        studyType: Master of Public Health (MPH)
+        start_date: 2014
+        end_date: 2016
         highlights:
           - Description 1.
           - Description 2.
