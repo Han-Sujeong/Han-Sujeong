@@ -87,36 +87,28 @@ cv:
         end_date: 2011.10
         summary: Scrub Nurse
  
- Publications:
-      - summary: "See full publication list on the [Publications](https://Han-Sujeong.github.io/publications/) page."
-        date: ""
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+ Volunteer:
+      - company: sjsjsjsjsjsjsjsj
+        position: sjsjsjsjs
+        location: Cheongju, Korea
+        start_date: 2014.3
+        end_date: 2015.3
+        summary: Lead organizer for the New York City branch of the People history.
         highlights:
           - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
           - "Men of the year 2014 by Time magazine"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+Awards:
+      - title: Student and Postdoc International Travel Scholarship
+        awarder: Society for Epidemiologic Research
+        url: https://epiresearch.org
+        date: 2025
+      
+      - title: Excellent Presentation Award
+        awarder: Korea Public Health Association
+        date: 2020
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
