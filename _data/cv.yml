@@ -108,21 +108,13 @@ cv:
       - title: Best Presentation Award
         awarder: Korean Society for Preventive Medicine
         date: 2019
-      
-      - title: Encouragement Presentation Award
-        awarder: Korean Society of Epidemiology
-        date: 2017
-      
-      - title: Best Poster Award
-        awarder: Korean Society for Preventive Medicine
-        date: 2017
 
     Skills:
       - name: Methodology
-        keywords: "Survival Analysis, Mathematical Modeling, Social Network Analysis"
+        keywords: "Survival Analysis, Social Network Analysis"
 
       - name: Programming
-        keywords: "R (advanced), SAS (advanced), Julia (intermediate), Python (basic), SQL (basic)"
+        keywords: "R (advanced), SAS (advanced)"
 
     Languages:
       - name: Korean
@@ -132,21 +124,21 @@ cv:
         summary: "Professional working proficiency"
 
     Interests:
-      - name: Infectious Disease Epidemiology
-        keywords: "Mathematical Modeling, Agent-based Modeling, Network Epidemiology, Population-based Cohort Study"
+      - name: Aging, Mental health Epidemiology
+        keywords: "Agent-based Modeling, Network Epidemiology, Population-based Cohort Study"
 
       - name: Hobbies
-        keywords: "Football, Weightlifting, Cello"
+        keywords: "Violin, Longboard, Enjoy music"
 
     Certificates:
       - name: Registered Nurse License
         issuer: Korean Ministry of Health and Welfare
-        date: 2014    
+        date: 2011    
         
     References:
       - name: Professor Sung-il Cho
         reference: Graduate School of Public Health, Seoul National University
 
-      - name: Professor Kyung-Duk Min
-        reference: College of Veterinary Medicine, Chungbuk National University.
+      - name: Professor Jin Hyun Jun
+        reference: College of Biomedical Laboratory Science, Eulji University.
  
