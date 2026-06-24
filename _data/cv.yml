@@ -124,17 +124,25 @@ cv:
         summary: "Professional working proficiency"
 
     Interests:
-      - name: Aging, Mental health Epidemiology
-        keywords: "Agent-based Modeling, Network Epidemiology, Population-based Cohort Study"
+      - name: Aging and Cognitive Health Research
+        keywords: "Longitudinal Data Analysis, Survival Analysis, Trajectory Modeling, Social Network Epidemiology, Population-based Cohort Study"
 
       - name: Hobbies
-        keywords: "Violin, Longboard, Enjoy music"
+        keywords: "Violin, Skateboard, Dancing, Enjoy music"
 
     Certificates:
-      - name: Registered Nurse License
+      - name: Registered Nurse License 
         issuer: Korean Ministry of Health and Welfare
-        date: 2011    
-        
+        date: 2011.3 
+
+      - name: Health Education Specialist
+        issuer: Korean Ministry of Health and Welfare
+        date: 2011.5
+
+      - name: BLS Provider
+        issuer: Korean Association of Cardiopulmonary Resuscitation
+        date: 2024.4
+  
     References:
       - name: Professor Sung-il Cho
         reference: Graduate School of Public Health, Seoul National University
