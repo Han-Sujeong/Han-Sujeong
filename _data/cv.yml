@@ -58,7 +58,6 @@ cv:
         location: Seoul, Korea
         start_date: 2023.9
         end_date: present
-        highlights:
                 
       - company: Eulji University & Korea National Open University
         position: Adjunct Lecturer
@@ -76,15 +75,15 @@ cv:
       - company: Seoul Metropolitan Government
         position: Epidemiological Investigation Officer
         location: Seoul, Korea
-        start_date: 2015.12
-        end_date: 2015.5
+        start_date: 2015.5
+        end_date: 2015.12
         summary: Epidemiological Investigator, Kangdong Kyung Hee University Hospital
 
       - company: St. Mary Hospital
         position: Registered Nurse
         location: Cheongju, Korea
-        start_date: 2014.9
-        end_date: 2011.10
+        start_date: 2011.9
+        end_date: 2014.10
         summary: Scrub Nurse
  
     Projects:
