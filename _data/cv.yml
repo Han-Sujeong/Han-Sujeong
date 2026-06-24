@@ -96,18 +96,37 @@ cv:
           - "Funded by Ministry of Education"
         
     Awards:
-      - title: Student and Postdoc International Travel Scholarship
-        awarder: Society for Epidemiologic Research
-        url: https://epiresearch.org
-        date: 2025
+      - title: Commendation for Outstanding Service as a MERS Epidemiological Investigation Officer
+        awarder: Seoul Metropolitan Government
+        date: 2016.3
       
+      - title: Outstanding Teaching Assistant Award (Introduction to Human Life Science)
+        awarder: Seoul National University
+        date: 2018.3
+    
+      - title: Outstanding Teaching Assistant Award (Introduction to Human Life Science)
+        awarder: Seoul National University
+        date: 2022.8
+      
+      - title: Outstanding Teaching Assistant Award (Introduction to Human Life Science)
+        awarder: Seoul National University
+        date: 2020.8
+      
+      - title: Outstanding Teaching Assistant Award (Introduction to Human Life Science)
+        awarder: Seoul National University
+        date: 2018.3
+
       - title: Excellent Presentation Award
         awarder: Korea Public Health Association
-        date: 2020
-      
-      - title: Best Presentation Award
-        awarder: Korean Society for Preventive Medicine
-        date: 2019
+        date: 2021.5
+
+      - title: Excellent Presentation Award
+        awarder: Korea Public Health Association
+        date: 2018.4
+  
+      - title: Health Innovators Idea Competition
+        awarder: Korea Health Promotion Institute
+        date: 2015.12
 
     Skills:
       - name: Methodology
@@ -124,7 +143,7 @@ cv:
         summary: "Professional working proficiency"
 
     Interests:
-      - name: Aging and Cognitive Health Research
+      - name: Aging and Mental Health Research
         keywords: "Longitudinal Data Analysis, Survival Analysis, Trajectory Modeling, Social Network Epidemiology, Population-based Cohort Study"
 
       - name: Hobbies
