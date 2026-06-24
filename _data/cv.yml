@@ -111,10 +111,10 @@ cv:
 
     Skills:
       - name: Methodology
-        keywords: "Survival Analysis, Social Network Analysis"
+        keywords: "Survival Analysis, Longitudinal Data Analysis, Group-Based Trajectory Modeling, Social Network Analysis"
 
       - name: Programming
-        keywords: "R (advanced), SAS (advanced)"
+        keywords: "R, SAS"
 
     Languages:
       - name: Korean
