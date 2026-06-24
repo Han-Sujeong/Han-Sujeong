@@ -87,10 +87,6 @@ cv:
         end_date: 2011.10
         summary: Scrub Nurse
  
-Publications:
-      - summary: "See full publication list on the [Publications](https://Han-Sujeong.github.io/publications/) page."
-        date: ""
- 
     Projects:
       - name: Simulation-Based Policy Evaluation Framework for Emerging Infectious Diseases
         start_date: 2025.9
