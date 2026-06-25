@@ -2,16 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: 
 nav: true
 nav_order: 6
 calendar: False
 ---
 
-
-
-## Teaching experience
-<br>
 
 **Introduction to Human Life Sciences** — Seoul National University (Fall 2023, Spring 2023)
 
