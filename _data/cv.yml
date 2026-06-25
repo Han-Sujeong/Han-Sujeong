@@ -158,9 +158,9 @@ cv:
         issuer: Korean Association of Cardiopulmonary Resuscitation
         date: 2024.4
 
-
- Volunteer:
-      - company: People's Climate March
+    
+    Volunteer:
+      - company: hi
         position: Lead Organizer
         location: Zurich, Switzerland
         start_date: 2014-04-01
@@ -169,7 +169,7 @@ cv:
         highlights:
           - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
           - "Men of the year 2014 by Time magazine"
-          
+      
   
     References:
       - name: Professor Sung-il Cho
