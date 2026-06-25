@@ -37,8 +37,8 @@ cv:
         url: https://health.snu.ac.kr/en/
         area: Epidemiology
         studyType: Master of Public Health (MPH)
-        start_date: 2014.2
-        end_date: 2016.2
+        start_date: 2014-02
+        end_date: 2016-02
         highlights:
           - "Advisor: Prof. Sung-il Cho"
           - "Thesis:  Development and evaluation of collective efficacy questionnaire for infectious disease"
@@ -68,7 +68,7 @@ cv:
       - company: Emocog Inc.
         position: Postdoctoral Researcher
         location: Seoul, Korea
-        start_date: 2025.10
+        start_date: 2025-10
         end_date: 2026.3
         summary: Project Manager for an ARPA-H (Advanced Research Projects Agency for Health) project
 
@@ -124,6 +124,19 @@ cv:
         awarder: Korea Health Promotion Institute
         date: 2015.12
 
+
+    Volunteer:
+      - company: hi
+        position: Lead Organizer
+        location: Zurich, Switzerland
+        start_date: 2014-04-01
+        end_date: 2015-07-01
+        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+        highlights:
+          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+          - "Men of the year 2014 by Time magazine"
+      
+
     Skills:
       - name: Methodology
         keywords: "Survival Analysis, Longitudinal Data Analysis, Group-Based Trajectory Modeling, Social Network Analysis"
@@ -157,19 +170,6 @@ cv:
       - name: BLS Provider
         issuer: Korean Association of Cardiopulmonary Resuscitation
         date: 2024.4
-
-    
-    Volunteer:
-      - company: hi
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-      
   
     References:
       - name: Professor Sung-il Cho
