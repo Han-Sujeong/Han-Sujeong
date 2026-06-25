@@ -19,6 +19,8 @@ calendar: False
 
 **Cardiopulmonary resuscitation** — Eulji University (Fall 2024)
 
-**Rehabilitation Nursing** — Seoul National Open University (Fall 2024)
+**Rehabilitation Nursing** — Korea National Open University (Fall 2024)
 
-**Family Health Nursing** — Seoul National Open University (Fall 2024)
+**Family Health Nursing** — Korea National Open University (Fall 2024, Fall 2025)
+
+**Community Health Nursing** — Korea National Open University (Spring 2025, Spring 2026)
