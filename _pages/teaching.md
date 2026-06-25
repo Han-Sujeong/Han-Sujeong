@@ -9,6 +9,11 @@ calendar: False
 ---
 
 
-**Introduction to Human Life Sciences** — Seoul National University (Fall 2023, Spring 2023)
+**Introduction to Public Health** — Eulji University (Spring 2023, Spring 2024, Spring 2025, Spring 2026)
 
-**Principles of Epidemiology** — Seoul National University (Spring 2020, Spring 2019)
+**Medical Laws** — Eulji University (Fall 2024, Fall 2025)
+
+**Physiology** — Eulji University (Fall 2024, Fall 2025)
+
+**Cell Biology** — Eulji University (Spring 2025, Spring 2026)
+
