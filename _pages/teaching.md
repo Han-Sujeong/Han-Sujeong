@@ -8,8 +8,12 @@ nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+---
 
-{% include courses.liquid %}
+## Teaching experience
+<br>
+
+**Introduction to Human Life Sciences** — Seoul National University (Fall 2023, Spring 2023)
+
+**Principles of Epidemiology** — Seoul National University (Spring 2020, Spring 2019)
